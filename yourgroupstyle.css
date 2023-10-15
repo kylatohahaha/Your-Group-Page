@@ -1,0 +1,97 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+.bodycolor{
+  background-color: #F6F6EF;
+}
+
+.STIlogo{
+  background-image: url(sti-college.jpg);
+  width: 100px;
+  height: 61px;
+  top: 0%;
+  left: 0%;
+  margin-top: 20px;
+  margin-left: 20px;
+  position: absolute;
+}
+
+.box{
+  width: 400px;
+  background-color: white;
+  height: 100px;
+  margin-top: 20px;
+  margin-right: 40px;
+  border-radius: 20px;
+
+  padding-right: 40px;
+}
+
+#text_style{
+  color: #11110e;
+  font-size: 18px;
+  padding-top: 40px;
+  margin-left: 130px;
+
+
+  
+}
+
+#postbox{
+  width: 700px;
+  height: 100px;
+  margin-top: 20px;
+  border-radius: 20px;
+  background-color: white;
+
+}
+
+.member_box{
+  width: 400px;
+  background-color: white;
+  height: 500px;
+  border-radius: 20px;
+  padding-right: 40px;
+}
+
+#text_members{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight: 2;
+  color: #11110e;
+
+  margin-bottom: 20px;
+}
+
+#member_post{
+  height: 525px;
+  width: 700px;
+  margin-top: 40px;
+  margin-left: 40px;
+  border-radius: 20px;
+  background-color: white;
+}
+
+#add_post{
+  background-color: #F6F6EF;
+  width: 480px;
+  height: 55px;
+  margin-top: 20px;
+  margin-left: 90px;
+  border-radius: 20px;
+  border: transparent;
+}
+
+#post_content{
+  background-color:#F6F6EF ;
+  height: 415px;
+  width: 645px;
+  margin-top: 80px;
+  margin-left: 15px;
+  border-radius: 20px;
+  
+}
+
+
+
+
